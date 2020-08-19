@@ -16,4 +16,9 @@ app.get('/', function (req, res) {
     res.render('pages/home')
 })
 
+//Render Contact Me Page
+app.get('/contact', function (req, res) {
+    res.render('pages/contact')
+})
+
 app.listen(port, () => console.log('Website is Live'));
