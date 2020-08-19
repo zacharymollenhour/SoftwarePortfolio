@@ -1,0 +1,19 @@
+{
+  "name": "softwareportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Site to showcase my experience and skillset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharymollenhour/SoftwarePortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharymollenhour/SoftwarePortfolio/issues"
+  },
+  "homepage": "https://github.com/zacharymollenhour/SoftwarePortfolio#readme"
+}
